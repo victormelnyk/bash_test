@@ -1,0 +1,20 @@
+{
+  "name": "bash_test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/victormelnyk/bash_test.git"
+  },
+  "author": "Victor Melnyk",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/victormelnyk/bash_test/issues"
+  },
+  "homepage": "https://github.com/victormelnyk/bash_test#readme",
+  "scripts": {
+    "t1": "echo 1",
+    "t2": "./run.sh"
+  }
+}
